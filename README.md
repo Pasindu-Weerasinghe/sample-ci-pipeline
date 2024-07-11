@@ -51,3 +51,25 @@ This repository contains a step-by-step guide to create a basic CI pipeline usin
 2. **Check the Build Status**
    - Check the build status in Jenkins.
 
+To set up a webhook to automatically trigger your Jenkins pipeline when changes are pushed to this GitHub repository
+
+## Step 1: Configure GitHub Webhook
+
+1. **Navigate to Your GitHub Repository**
+   - Navigate to your GitHub repository.
+
+2. **Add a New Webhook**
+   - Add a new webhook to your GitHub repository.
+
+## Step 2: Configure Jenkins to Receive GitHub Webhooks
+
+1. **Configure Jenkins Job to Use GitHub Webhooks**
+   - Configure Jenkins job to use GitHub webhooks.
+
+## Step 3: Test the Webhook
+
+1. **Push a Change to Your Repository**
+   - Push a change to your repository.
+
+2. **Check Jenkins**
+   - Check Jenkins for the triggered build.
