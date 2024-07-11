@@ -16,7 +16,7 @@ This repository contains a step-by-step guide to create a basic CI pipeline usin
 4. **Clone the Repository Locally**
    - Clone the GitHub repository to your local machine:
      ```bash
-     git clone https://github.com/your-username/your-repository.git
+     git clone https://github.com/Pasindu-Weerasinghe/sample-ci-pipeline.git
      ```
 
 5. **Add a Simple Project**
